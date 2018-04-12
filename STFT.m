@@ -15,8 +15,8 @@ function STFTcoef = STFT(f, time_win, factor_redund, f_sampling)
 %   axis. 
 %
 
-% based on a STFT written by Guoshen Yu
-
+% Guoshen Yu
+% Version 1, Sept 15, 2006
 
 
 % Check that f is 1D
