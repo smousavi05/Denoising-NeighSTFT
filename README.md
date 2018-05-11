@@ -38,6 +38,6 @@ detection of small magnitude events and accuracy of arrival time picking.
 
 ![Denoising real seismic data. The left column shows presumably induced microseismic events due to wastewater injection in 
 central Arkansas in 2010 recorded by a broadband seismometer at the surface. The right column shows the same trace and 
-its STFT after denoising.](Fig.ipg)
+its STFT after denoising.](Fig.png)
 
 
