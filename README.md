@@ -22,6 +22,8 @@ in terms of preserving detailed features of seismic signal. However, it is fast 
 real-time processing of continuous data for event detection purposes. Results from application of this algorithm to 
 synthetic and real seismic data show that it holds a great promise for improving microseismic event detection.
 
+## demo.m includes all info you need to know for running the code 
+
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
 the reliability of the seismic data and accuracy of parameter extraction, such as onset time, polarity, and amplitude, 
