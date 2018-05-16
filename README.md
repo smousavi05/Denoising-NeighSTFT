@@ -7,6 +7,11 @@ This repository contains MATLAB scripts and sample data for applying denoising m
 microseismic event detection, Journal of Applied Geophysics, 132, 116-124,
 doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008."
 
+
+`demo.m` includes all info you need to know for running the code. 
+
+you need `MATLAB statistics and signal processing toolbox` to run this code.
+
 ## Paper
 (https://www.researchgate.net/publication/305078128_Adaptive_noise_estimation_and_suppression_for_improving_microseismic_event_detection)
 
@@ -21,8 +26,6 @@ estimators. The method might not be compared with more sophisticated and computa
 in terms of preserving detailed features of seismic signal. However, it is fast and data-driven and can be applied in 
 real-time processing of continuous data for event detection purposes. Results from application of this algorithm to 
 synthetic and real seismic data show that it holds a great promise for improving microseismic event detection.
-
-`demo.m` includes all info you need to know for running the code 
 
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
