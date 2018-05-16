@@ -10,7 +10,7 @@ doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008."
 
 `demo.m` includes all info you need to know for running the code. 
 
-you need `MATLAB statistics and signal processing toolbox` to run this code.
+you need `MATLAB statistics and signal processing toolboxes` to run this code.
 
 ## Paper
 (https://www.researchgate.net/publication/305078128_Adaptive_noise_estimation_and_suppression_for_improving_microseismic_event_detection)
