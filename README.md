@@ -1,5 +1,5 @@
 # Neighbor Denoising in Short Time Fourier Transform
-===========================================================================
+------------------------------------------------------
 
 This repository contains MATLAB scripts and sample data for applying the denoising method presented in: 
 
