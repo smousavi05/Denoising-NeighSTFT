@@ -4,7 +4,7 @@
 This repository contains MATLAB scripts and sample data for applying the denoising method presented in: 
 
 Mousavi, S. M., and C. A. Langston (2016). Adaptive noise estimation and suppression for improving
-microseismic event detection, Journal of Applied Geophysics, 132, 116-124, doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008.
+microseismic event detection, Journal of Applied Geophysics, 132, 116-124, doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008 
 
 
 `demo.m` includes all info you need to know for running the code. 
