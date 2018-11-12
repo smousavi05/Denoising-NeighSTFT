@@ -1,4 +1,4 @@
-# Neighbor Denoising in Short Time Fourier Transform
+# Neighbor Denoising in Short Time  Fourier Transform
 
 ------------------------------------------------------
 
