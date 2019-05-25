@@ -1,15 +1,28 @@
 # Neighbor Denoising in Short Time Fourier Transform                
-------------------------------------------------------
 
 This repository contains MATLAB scripts and sample data for applying the denoising method presented in: 
 
-Mousavi, S. M., and C. A. Langston (2016). Adaptive noise estimation and suppression for improving
-microseismic event detection, Journal of Applied Geophysics, 132, 116-124, doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008 
+`Mousavi, S. M., and C. A. Langston (2016). 
+Adaptive noise estimation and suppression for improving microseismic event detection, 
+Journal of Applied Geophysics, 132, 116-124, doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008` 
 
+BibTeX:
+
+    @article{mousavi2016adaptive,
+    title={Adaptive noise estimation and suppression for improving microseismic event detection},
+    author={Mousavi, S Mostafa and Langston, Charles A},
+    journal={Journal of Applied Geophysics},
+    volume={132},
+    pages={116--124},
+    year={2016},
+    publisher={Elsevier}
+    }
 
 `demo.m` includes all info you need to know for running the code. 
 
 you need `MATLAB statistics and signal processing toolboxes` to run this code.
+
+------------------------------------------------------
 
 ## A short description 
 In this approach for suppresing the noise from seismic data, first the noise level presented in the signal is estimated using 
