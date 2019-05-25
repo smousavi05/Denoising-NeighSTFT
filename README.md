@@ -18,6 +18,12 @@ BibTeX:
     publisher={Elsevier}
     }
 
+## Paper
+(https://www.researchgate.net/publication/305078128_Adaptive_noise_estimation_and_suppression_for_improving_microseismic_event_detection)
+
+## Talk 
+(https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
+
 `demo.m` includes all info you need to know for running the code. 
 
 you need `MATLAB statistics and signal processing toolboxes` to run this code.
@@ -28,12 +34,6 @@ you need `MATLAB statistics and signal processing toolboxes` to run this code.
 In this approach for suppresing the noise from seismic data, first the noise level presented in the signal is estimated using 
 the minima controlled recursive averaging technique. In this technique, past power values of noisy measurements during a period of signal absence are recursively averaged and the estimate is continued during signal presence. This is done by useing a time-varying frequency-dependent smoothing parameter that is adjusted by the probability of signal presence. The probabilities are obtained using Baye's theorem. 
 After the noise estimation, denoising is done by thresholding the Short Time Fourier Transform coefficients based on a risk estimate (usindg Stein's unbiased risk estimate) from neighboring coefficients. 
-
-## Paper
-(https://www.researchgate.net/publication/305078128_Adaptive_noise_estimation_and_suppression_for_improving_microseismic_event_detection)
-
-## Talk 
-(https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
 
 ## Abstract 
 Microseismic data recorded by surface arrays are often strongly contaminated by unwanted noise. This background noise 
