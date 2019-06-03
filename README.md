@@ -6,6 +6,8 @@ This repository contains MATLAB scripts and sample data for applying the denoisi
 Adaptive noise estimation and suppression for improving microseismic event detection, 
 Journal of Applied Geophysics, 132, 116-124, doi:http://dx.doi.org/10.1016/j.jappgeo.2016.06.008` 
 
+------------------------
+
 BibTeX:
 
     @article{mousavi2016adaptive,
