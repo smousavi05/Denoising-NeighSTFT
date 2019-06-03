@@ -28,11 +28,13 @@ BibTeX:
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
 
+------------------------
+
 `demo.m` includes all info you need to know for running the code. 
 
 you need `MATLAB statistics and signal processing toolboxes` to run this code.
 
-------------------------------------------------------
+------------------------
 
 ## A short description 
 In this approach for suppresing the noise from seismic data, first the noise level presented in the signal is estimated using 
