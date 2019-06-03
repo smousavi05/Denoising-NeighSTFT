@@ -20,6 +20,8 @@ BibTeX:
     publisher={Elsevier}
     }
 
+------------------------
+
 ## Paper
 (https://www.researchgate.net/publication/305078128_Adaptive_noise_estimation_and_suppression_for_improving_microseismic_event_detection)
 
