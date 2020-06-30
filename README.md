@@ -1,5 +1,12 @@
 # Neighbor Denoising in Short Time Fourier Transform              
 
+![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/Denoising-NeighSTFT?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/smousavi05/Denoising-NeighSTFT?style=social)
+![GitHub followers](https://img.shields.io/github/followers/smousavi05?style=social)
+![GitHub forks](https://img.shields.io/github/forks/smousavi05/Denoising-NeighSTFT?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/Denoising-NeighSTFT?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
+
 This repository contains MATLAB scripts and sample data for applying the denoising method presented in: 
 
 `Mousavi, S. M., and C. A. Langston (2016). 
